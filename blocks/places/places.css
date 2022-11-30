@@ -1,0 +1,27 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto;
+  font-family: 'Inter', Arial, sans-serif;
+  background-color: #2A2C2F;
+  padding-bottom: 52px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .places {
+    max-width: 720px;
+    padding-bottom: 53.5px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places {
+    max-width: 320px;
+    padding-bottom: 41.5px;
+  }
+}
