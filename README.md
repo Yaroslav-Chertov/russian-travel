@@ -2,7 +2,7 @@
 
 [Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/russian-travel/)
 
-## Создана в рамках обучения в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
+## Создан в рамках обучения в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/)
 
 ## Описание и функциональность
 Работа представляет из себя одностраничный сайт о путешествии по России, с упоминанием интересных географических мест.
