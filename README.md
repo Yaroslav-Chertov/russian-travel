@@ -1,4 +1,4 @@
-# Путешествие по России
+# Путешествия по России
 
 [Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/russian-travel/)
 
